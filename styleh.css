@@ -56,10 +56,10 @@ nav button{
     background-color: #f7b944;
     border: none;
     line-height: 1.5;
+    border-radius: 5px;
+
 }
-.logo{
-    /* margin-right: 2%; */
-}
+
 header{
     border-top: 1px solid #7cacf800;
     border-bottom: 1px solid #7cacf800;
@@ -82,7 +82,14 @@ header .div{
     width: 80%;
     margin: auto;
 }
-
+main button{
+    width: fit-content;
+    padding:  2% 7%;
+    background-color: #f7b944;
+    border: none;
+    line-height: 1.5;
+    border-radius: 5px;
+}
 main img{
     width: 60%;
     height: 40vh;
