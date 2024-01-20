@@ -1,0 +1,174 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    /* padding: 2% 5%; */
+    width: 100vw;
+}
+.flex{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    line-height: 2;
+}
+ul li:hover{
+    font-weight: 800;
+}
+ul a{
+    text-decoration: none;
+    color: black;
+}
+.blue{
+    color: blue;
+    text-decoration: underline;
+
+}
+nav{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 5%;
+
+}
+.nav1{
+    justify-content: space-between;
+    width: 70vw;
+
+}
+.nav1 ul{
+    width: 35%;
+    justify-content: space-between;
+
+}
+.nav2{
+    width: 65vw;
+
+}
+.nav2 ul {
+    justify-content: space-between;
+
+}
+nav button{
+    width: 8vw;
+    padding:  8%;
+    background-color: #f7b944;
+    border: none;
+    line-height: 1.5;
+    border-radius: 5px;
+
+}
+
+header{
+    border-top: 1px solid #7cacf800;
+    border-bottom: 1px solid #7cacf800;
+    box-shadow: 3px 0px 5px 4px #8a98af26;
+    margin: 1% auto;
+    
+
+}
+header .div{
+    margin: auto;
+    width: 85vw;
+
+}
+
+.main-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 80vw;
+    margin: auto;
+}
+main button{
+    width: fit-content;
+    padding:  2% 7%;
+    background-color: #f7b944;
+    border: none;
+    line-height: 1.5;
+    border-radius: 5px;
+}
+.r-btn{
+    width: 15vw;
+    padding:  5% 7%;
+    margin-bottom: 25%;
+    cursor: pointer;
+
+}
+footer .div{
+    width: 80vw;
+    margin:  auto;
+    justify-content: space-between;
+}
+.bold{
+    font-weight: 800;
+    font-size: 1.1em;
+    margin-bottom: 4%;
+}
+.logos{
+    width: 80vw;
+    margin: 5% auto;
+    padding-bottom: 5%;
+    justify-content: space-between;
+    border-bottom: 1px solid grey;
+
+}
+.footer-logo{
+    width: 30%;
+    justify-content: space-between;
+}
+
+.exclusive-header{
+width: 100%;
+text-align: center;
+margin-top:4% 7%;
+font-size: 45px;
+font-weight: bold;
+
+}
+
+
+.img-exlusive{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    /* border: 2px solid red; */
+    padding: 2% 3%;
+
+}
+
+.excl-pix{
+width: 40vw
+}
+
+
+.text-exlusive{
+width: 40vm;
+
+}
+
+.exclusive-mid{
+    font-size: 30px;
+    font-weight: bold;
+   
+    
+
+}
+
+.exclusive-mid1{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 8px 0px ;
+    
+}
+
+.exclusive-btn{
+    margin: 15px 0px ;
+    background-color: #f7b944;
+    padding: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
