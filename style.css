@@ -299,10 +299,78 @@ width: 40vm;
     border: 1px solid #f7b944;
     margin-top: 10px; 
 }
+.Gift-header{
+    width: 100%;
+    text-align: center;
+    margin-top:4% 7%;
+    font-size: 45px;
+    font-weight: bold;
+}
+.Gift-banner{
+    justify-items: center;
+    margin-left: 100px;
+    margin-bottom: 70px;
+}
+.Gift-container{
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-left: 300px;
+    margin-bottom: 50px;
+}
+.GM1{
+    width: 400px;
+    height: 400px;
+}
+
+.GM2{
+    width: 400px;
+    height: 400px;
+
+}
+
+.gift-card12{
+    margin-right: 70px;
+}
+
+.Gift-Card20{
+    margin-right: 25px;
+}
+
+.giftBtn1{
+    background-color: #f7b944;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #f7b944;
+    margin-top: 10px; 
+
+}
+
+.cardbtn{
+    background-color: #f7b944;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #f7b944;
+    margin-top: 10px; 
+
+}
+
+.card-header{
+    width: 100%;
+    text-align: left;
+    margin-top:4% 7%;
+    font-size: 45px;
+    font-weight: bold;
+
+}
 
 
 
-
-
-
-
+.cardp{
+    text-align: left;
+    margin-top: 20px;
+    width: 100%;
+}
