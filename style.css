@@ -237,8 +237,72 @@ width: 40vm;
     border-radius: 10px;
     border: 1px solid #f7b944;
     margin-top: 10px;
+
+}
+
+.philosophy-header{
+    width: 100%;
+    text-align: center;
+    margin-top:4% 7%;
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.philo-banner{
+    justify-items: center;
+    margin-left: 100px;
+    margin-bottom: 70px;
+
+}
+
+.text-philo{
+    justify-items: center;
+    margin-top: 80px;
+
+}
+.philo-container{
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin-left: 300px;
+    margin-bottom: 50px;
+
+
+}
+
+.pm1{
+    width: 400px;
+    height: 400px;
+
+} 
+
+.pm{
+    width: 400px;
+    height: 400px;
     
 }
+.philo-p1{
+    margin-right: 90px;
+}
+
+.philo-minna{
+    margin-left: 23px;
+}
+
+.philoBtn1{
+    background-color: #f7b944;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #f7b944;
+    margin-top: 10px; 
+}
+
+
+
+
 
 
 
