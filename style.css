@@ -403,5 +403,68 @@ width: 40vm;
     
 
 }
+.nur-ben{
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 24px;
+    line-height: 25px;
+
+}
+.nur-x{
+    font-size: 30px;
+}
+
+.next{
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+
+.four-images-section{
+    display: flex;
+    margin-left: 200px;
+    font-size: 20px;
+    width: 50px;
+    height: 40px;
+}
+
+.pix-nur{
+
+    /* height: 40px; */
+}
+
+.NC1{
+    width: 200px;
+    height: 250px;
+    margin: 20px;
+}
+.NC2{
+    width: 200px;
+    height: 250px;
+    margin: 20px;
+
+}
+.NC3{
+    width: 200px;
+    height: 250px;
+    margin: 20px;
+}
+
+.NC4{
+    width: 200px;
+    height: 250px;
+    margin: 20px;
+
+}
+
+.four-awesome{
+    height: 500px;
+}
+
+
+
+
 
 
